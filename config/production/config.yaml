@@ -2,6 +2,11 @@
 
 baseURL: https://julianaojo-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: b19a97a6-e89b-4b5f-af9d-2bc08820ae07
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
